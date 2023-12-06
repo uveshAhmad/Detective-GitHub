@@ -1,4 +1,4 @@
 # Detective-GitHub
 
  
-![last](https://github.com/uveshAhmad/Detective-GitHub/assets/115268659/4fb4a82b-b969-4876-9ab6-5ba12dfe0d51)
+ ![DetectiveGithub (2)](https://github.com/uveshAhmad/Detective-GitHub/assets/115268659/25c504dd-5ac3-4564-9527-0b669d7ca925)
